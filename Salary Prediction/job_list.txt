@@ -1,0 +1,12 @@
+<bound method Series.unique of 0           Software Engineer
+1                Data Analyst
+2              Senior Manager
+3             Sales Associate
+4                    Director
+                ...          
+6699    Director of Marketing
+6700          Sales Associate
+6701        Financial Manager
+6702        Marketing Manager
+6703          Sales Executive
+Name: Job Title, Length: 6698, dtype: object>
